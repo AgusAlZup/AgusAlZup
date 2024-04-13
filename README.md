@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgusAlZup
 - 👀 I’m interested.
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate, am I?.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me agustinzupan@gmail.com...
 
 <!---
